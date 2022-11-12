@@ -1,5 +1,5 @@
 ; ==================================================================
-; Auqa_Seven_OS -- The Aqua_Seven_OS Operating System kernel
+; PRI_JOSH_OS -- The PRI_JOSH_OS Operating System kernel
 ;
 ; KEYBOARD HANDLING ROUTINES
 ; ==================================================================
