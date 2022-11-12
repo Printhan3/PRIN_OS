@@ -1,9 +1,9 @@
-;AquaSeven --- The Aqua Seven Operating System Kernel
+;PRI_JOSH --- The PRI_JOSH Operating System Kernel
 ;===================================================================
 
 	BITS 16
-	%DEFINE AQUASEVENOS_VER '1.0.0'	 ;OS version number
-	%DEFINE AQUASEVENOS_API_VER 1	; API version for programs to check
+	%DEFINE PRIJOSHOS_VER '1.0.0'	 ;OS version number
+	%DEFINE PRIJOSHOS_API_VER 1	; API version for programs to check
 	%DEFINE KEY_ESC		27
 
 	disk_buffer equ 24576 
